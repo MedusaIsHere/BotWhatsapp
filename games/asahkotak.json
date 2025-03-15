@@ -1,126 +1,438 @@
 [
   {
-    "soal": "Apa yang naik tapi tidak pernah turun?",
-    "jawaban": "umur"
+    "soal": "Berapakah hasil dari 12 x 12",
+    "jawaban": "144"
   },
   {
-    "soal": "Ayah Budi punya 3 anak: Ani, Ina, dan ...?",
-    "jawaban": "budi"
+    "soal": "Unsur kimia dengan simbol Na adalah",
+    "jawaban": "natrium"
   },
   {
-    "soal": "Kalau kamu melempar batu ke laut, apa yang terjadi?",
-    "jawaban": "batu tenggelam"
+    "soal": "Siapa pelukis lukisan Mona Lisa",
+    "jawaban": "leonardo da vinci"
   },
   {
-    "soal": "Ada lima lilin menyala, dua mati karena angin, berapa yang tersisa?",
-    "jawaban": "dua"
+    "soal": "Apa ibukota dari negara Jepang",
+    "jawaban": "tokyo"
   },
   {
-    "soal": "Apa yang bisa dilihat tapi tidak bisa disentuh?",
-    "jawaban": "bayangan"
+    "soal": "Sebutkan bilangan prima antara 10 dan 20",
+    "jawaban": "11 13 17 19"
   },
   {
-    "soal": "Buah apa yang isinya malah di luar?",
-    "jawaban": "jambu mete"
+    "soal": "Berapakah akar kuadrat dari 81",
+    "jawaban": "9"
   },
   {
-    "soal": "Benda apa yang bisa masuk tapi tidak bisa keluar?",
-    "jawaban": "jarum suntik"
+    "soal": "Apa nama zat yang dibutuhkan tumbuhan untuk fotosintesis",
+    "jawaban": "klorofil"
   },
   {
-    "soal": "Kaki seribu punya berapa kaki?",
-    "jawaban": "bukan seribu"
+    "soal": "Berapakah jumlah sisi pada kubus",
+    "jawaban": "6"
   },
   {
-    "soal": "Hewan apa yang suka berdoa?",
-    "jawaban": "beruang"
+    "soal": "Siapa penemu bola lampu",
+    "jawaban": "thomas alva edison"
   },
   {
-    "soal": "Apa yang semakin penuh malah semakin ringan?",
-    "jawaban": "balon"
+    "soal": "Apa lambang unsur kimia Oksigen",
+    "jawaban": "o"
   },
   {
-    "soal": "Apa yang selalu datang tapi tidak pernah sampai?",
-    "jawaban": "besok"
+    "soal": "Apa satuan dari arus listrik",
+    "jawaban": "ampere"
   },
   {
-    "soal": "Bulan apa yang paling pendek?",
-    "jawaban": "februari"
+    "soal": "Apa planet terbesar di tata surya",
+    "jawaban": "jupiter"
   },
   {
-    "soal": "Apa yang tidak punya otak tapi bisa pintar?",
-    "jawaban": "komputer"
+    "soal": "Siapa penemu telepon",
+    "jawaban": "alexander graham bell"
   },
   {
-    "soal": "Apa yang tidak bisa dilihat tapi bisa dirasakan?",
-    "jawaban": "angin"
+    "soal": "Apa nama zat yang menyebabkan cabai terasa pedas",
+    "jawaban": "capsaicin"
   },
   {
-    "soal": "Ikan apa yang pintar matematika?",
-    "jawaban": "ikan kalkulus"
+    "soal": "Berapakah volume dari balok dengan panjang 5 cm, lebar 4 cm, dan tinggi 3 cm",
+    "jawaban": "60"
   },
   {
-    "soal": "Huruf apa yang selalu bersih?",
-    "jawaban": "c (karena selalu disikat)"
+    "soal": "Siapa penulis novel Laskar Pelangi",
+    "jawaban": "andrea hirata"
   },
   {
-    "soal": "Apa yang punya mata tapi tidak bisa melihat?",
-    "jawaban": "jarum"
+    "soal": "Apa warna primer dalam seni rupa",
+    "jawaban": "merah kuning biru"
   },
   {
-    "soal": "Apa yang selalu basah meskipun mengeringkan?",
-    "jawaban": "handuk"
+    "soal": "Berapakah hasil dari 2 pangkat 5",
+    "jawaban": "32"
   },
   {
-    "soal": "Apa yang bisa dipakai tapi tidak bisa dipakai?",
-    "jawaban": "kata 'dipakai'"
+    "soal": "Apa nama alat untuk mengukur tekanan udara",
+    "jawaban": "barometer"
   },
   {
-    "soal": "Binatang apa yang ada di ATM?",
-    "jawaban": "ular (ularyah)"
+    "soal": "Apa nama teori fisika terkenal dari Albert Einstein",
+    "jawaban": "relativitas"
   },
   {
-    "soal": "Mobil apa yang tidak bisa jalan?",
-    "jawaban": "mobil-mobilan"
+    "soal": "Apa rumus luas persegi",
+    "jawaban": "sisi x sisi"
   },
   {
-    "soal": "Apa yang bisa dipecahkan tapi tidak bisa dipegang?",
-    "jawaban": "masalah"
+    "soal": "Berapakah jumlah provinsi di Indonesia",
+    "jawaban": "38"
   },
   {
-    "soal": "Kenapa ayam menyeberang jalan?",
-    "jawaban": "untuk sampai ke seberang"
+    "soal": "Apa rumus luas lingkaran",
+    "jawaban": "π r²"
   },
   {
-    "soal": "Apa yang selalu di depan tapi tidak bisa maju?",
-    "jawaban": "cermin"
+    "soal": "Siapa presiden pertama Indonesia",
+    "jawaban": "soekarno"
   },
   {
-    "soal": "Siapa yang selalu ketinggalan?",
-    "jawaban": "ekor"
+    "soal": "Berapakah hasil dari 7 x 9",
+    "jawaban": "63"
   },
   {
-    "soal": "Benda apa yang dibuka tapi tidak bisa ditutup?",
-    "jawaban": "aib"
+    "soal": "Apa ibukota Indonesia",
+    "jawaban": "jakarta"
   },
   {
-    "soal": "Apa yang tidak hidup tapi bisa mati?",
-    "jawaban": "baterai"
+    "soal": "Siapa penemu teori relativitas",
+    "jawaban": "albert einstein"
   },
   {
-    "soal": "Kenapa kalender suka duduk?",
-    "jawaban": "karena ada tanggal merah"
+    "soal": "Apa lambang unsur kimia Besi",
+    "jawaban": "fe"
   },
   {
-    "soal": "Apa yang kecil tapi bisa menampung dunia?",
-    "jawaban": "peta"
+    "soal": "Apa nama sungai terpanjang di dunia",
+    "jawaban": "nil"
   },
   {
-    "soal": "Kunci apa yang tidak bisa membuka pintu?",
-    "jawaban": "kunci gitar"
+    "soal": "Apa nama benua terbesar di dunia",
+    "jawaban": "asia"
   },
   {
-    "soal": "Apa yang panjang saat baru dan pendek saat digunakan?",
-    "jawaban": "pensil"
+    "soal": "Berapa jumlah rusuk pada kubus",
+    "jawaban": "12"
+  },
+  {
+    "soal": "Apa nama hewan tercepat di darat",
+    "jawaban": "cheetah"
+  },
+  {
+    "soal": "Berapakah jumlah unsur dalam tabel periodik saat ini",
+    "jawaban": "118"
+  },
+  {
+    "soal": "Berapa derajat jumlah sudut dalam segitiga",
+    "jawaban": "180"
+  },
+  {
+    "soal": "Apa nama satelit alam Bumi",
+    "jawaban": "bulan"
+  },
+  {
+    "soal": "Siapa penemu gravitasi",
+    "jawaban": "isaac newton"
+  },
+  {
+    "soal": "Apa lambang unsur kimia Emas",
+    "jawaban": "au"
+  },
+  {
+    "soal": "Apa ibukota Australia",
+    "jawaban": "canberra"
+  },
+  {
+    "soal": "Berapa hasil 8 pangkat 2",
+    "jawaban": "64"
+  },
+  {
+    "soal": "Berapa jumlah benua di Bumi",
+    "jawaban": "7"
+  },
+  {
+    "soal": "Siapa penulis naskah drama Romeo dan Juliet",
+    "jawaban": "william shakespeare"
+  },
+  {
+    "soal": "Berapakah hasil dari 15 x 4",
+    "jawaban": "60"
+  },
+  {
+    "soal": "Apa nama ilmuwan yang menemukan hukum pewarisan sifat",
+    "jawaban": "gregor mendel"
+  },
+  {
+    "soal": "Berapa jumlah planet di tata surya",
+    "jawaban": "8"
+  },
+  {
+    "soal": "Apa lambang unsur kimia Perak",
+    "jawaban": "ag"
+  },
+  {
+    "soal": "Apa fungsi hemoglobin dalam darah",
+    "jawaban": "mengangkut oksigen"
+  },
+  {
+    "soal": "Apa bentuk pemerintahan Indonesia",
+    "jawaban": "republik"
+  },
+  {
+    "soal": "Siapa yang pertama kali menginjakkan kaki di bulan",
+    "jawaban": "neil armstrong"
+  },
+  {
+    "soal": "Dari mana asal buah nanas",
+    "jawaban": "amerika selatan"
+  },
+  {
+    "soal": "Apa satuan kecepatan dalam sistem SI",
+    "jawaban": "meter per detik"
+  },
+  {
+    "soal": "Apa rumus keliling lingkaran",
+    "jawaban": "2πr"
+  },
+  {
+    "soal": "Apa bahasa resmi Brasil",
+    "jawaban": "portugis"
+  },
+  {
+    "soal": "Apa nama ilmu yang mempelajari fosil",
+    "jawaban": "paleontologi"
+  },
+  {
+    "soal": "Berapa jumlah sisi pada segitiga",
+    "jawaban": "3"
+  },
+  {
+    "soal": "Apa lambang unsur kimia Karbon",
+    "jawaban": "c"
+  },
+  {
+    "soal": "Apa ibu kota Prancis",
+    "jawaban": "paris"
+  },
+  {
+    "soal": "Apa satuan dari tekanan dalam sistem SI",
+    "jawaban": "pascal"
+  },
+  {
+    "soal": "Siapa penulis buku 'The Origin of Species'",
+    "jawaban": "charles darwin"
+  },
+  {
+    "soal": "Berapa jumlah gigi tetap pada orang dewasa yang normal",
+    "jawaban": "32"
+  },
+  {
+    "soal": "Siapa penemu mesin uap",
+    "jawaban": "james watt"
+  },
+  {
+    "soal": "Apa sumber energi utama matahari",
+    "jawaban": "fusi nuklir"
+  },
+  {
+    "soal": "Berapakah nilai Pi hingga 2 angka desimal",
+    "jawaban": "3.14"
+  },
+  {
+    "soal": "Apa organ terbesar pada tubuh manusia",
+    "jawaban": "kulit"
+  },
+  {
+    "soal": "Siapa presiden Amerika Serikat yang pertama",
+    "jawaban": "george washington"
+  },
+  {
+    "soal": "Apa rumus kimia untuk air",
+    "jawaban": "h2o"
+  },
+  {
+    "soal": "Apa nama hewan yang dapat mengubah warna kulitnya",
+    "jawaban": "bunglon"
+  },
+  {
+    "soal": "Apa nama ilmu yang mempelajari burung",
+    "jawaban": "ornitologi"
+  },
+  {
+    "soal": "Apa vitamin yang didapat dari sinar matahari",
+    "jawaban": "vitamin d"
+  },
+  {
+    "soal": "Apa warna darah pada arthropoda",
+    "jawaban": "biru"
+  },
+  {
+    "soal": "Berapa jumlah tulang dalam tubuh manusia dewasa",
+    "jawaban": "206"
+  },
+  {
+    "soal": "Berapa derajat air mendidih pada skala Celsius",
+    "jawaban": "100"
+  },
+  {
+    "soal": "Apa alat musik tradisional dari Jawa Barat",
+    "jawaban": "angklung"
+  },
+  {
+    "soal": "Apa nama gunung tertinggi di dunia",
+    "jawaban": "everest"
+  },
+  {
+    "soal": "Berapa jumlah pemain dalam satu tim sepak bola",
+    "jawaban": "11"
+  },
+  {
+    "soal": "Berapa lama rotasi bumi pada porosnya",
+    "jawaban": "24 jam"
+  },
+  {
+    "soal": "Apa jenis hewan yang merupakan karnivora terbesar di darat",
+    "jawaban": "beruang kutub"
+  },
+  {
+    "soal": "Apa nama ibukota Mesir",
+    "jawaban": "kairo"
+  },
+  {
+    "soal": "Berapa persen kandungan oksigen di udara",
+    "jawaban": "21"
+  },
+  {
+    "soal": "Siapa pencipta lagu Indonesia Raya",
+    "jawaban": "wage rudolf supratman"
+  },
+  {
+    "soal": "Apa nama garis khayal yang membagi bumi menjadi belahan utara dan selatan",
+    "jawaban": "khatulistiwa"
+  },
+  {
+    "soal": "Apa nama senyawa kimia garam dapur",
+    "jawaban": "natrium klorida"
+  },
+  {
+    "soal": "Apa lambang unsur kimia Nitrogen",
+    "jawaban": "n"
+  },
+  {
+    "soal": "Berapa jumlah kaki pada serangga",
+    "jawaban": "6"
+  },
+  {
+    "soal": "Apa ibukota Jerman",
+    "jawaban": "berlin"
+  },
+  {
+    "soal": "Apa nama alat untuk mengukur tekanan darah",
+    "jawaban": "tensimeter"
+  },
+  {
+    "soal": "Apa nama ilmu yang mempelajari jamur",
+    "jawaban": "mikologi"
+  },
+  {
+    "soal": "Berapa jumlah pemain dalam tim bola voli",
+    "jawaban": "6"
+  },
+  {
+    "soal": "Apa rumus kimia untuk glukosa",
+    "jawaban": "c6h12o6"
+  },
+  {
+    "soal": "Apa nama samudra terluas di bumi",
+    "jawaban": "pasifik"
+  },
+  {
+    "soal": "Apa nama mata uang Jepang",
+    "jawaban": "yen"
+  },
+  {
+    "soal": "Siapa penulis novel 'Harry Potter'",
+    "jawaban": "j.k. rowling"
+  },
+  {
+    "soal": "Apa lambang unsur kimia Helium",
+    "jawaban": "he"
+  },
+  {
+    "soal": "Berapa jumlah sisi pada segienam",
+    "jawaban": "6"
+  },
+  {
+    "soal": "Apa gas yang paling banyak di atmosfer bumi",
+    "jawaban": "nitrogen"
+  },
+  {
+    "soal": "Apa nama lembaga PBB yang menangani kesehatan",
+    "jawaban": "who"
+  },
+  {
+    "soal": "Apa warna primer cahaya",
+    "jawaban": "merah hijau biru"
+  },
+  {
+    "soal": "Berapa jumlah kromosom pada manusia",
+    "jawaban": "46"
+  },
+  {
+    "soal": "Siapa penemu teori evolusi",
+    "jawaban": "charles darwin"
+  },
+  {
+    "soal": "Apa nama senyawa kimia cuka",
+    "jawaban": "asam asetat"
+  },
+  {
+    "soal": "Berapa derajat jumlah sudut dalam persegi",
+    "jawaban": "360"
+  },
+  {
+    "soal": "Apa hari kemerdekaan Indonesia",
+    "jawaban": "17 agustus"
+  },
+  {
+    "soal": "Apa nama alat untuk mengukur kelembaban udara",
+    "jawaban": "higrometer"
+  },
+  {
+    "soal": "Apa nama ilmu yang mempelajari serangga",
+    "jawaban": "entomologi"
+  },
+  {
+    "soal": "Berapa hasil dari 13 x 7",
+    "jawaban": "91"
+  },
+  {
+    "soal": "Berapa jumlah samudra di bumi",
+    "jawaban": "5"
+  },
+  {
+    "soal": "Apa lambang unsur kimia Potasium",
+    "jawaban": "k"
+  },
+  {
+    "soal": "Siapa penemu vaksin pertama",
+    "jawaban": "edward jenner"
+  },
+  {
+    "soal": "Apa nama ibukota Inggris",
+    "jawaban": "london"
+  },
+  {
+    "soal": "Apa nama ilmu yang mempelajari tanah",
+    "jawaban": "
   }
 ]

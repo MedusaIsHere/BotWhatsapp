@@ -1,5 +1,30 @@
 [
   {
+    "type": "Benda",
+    "question": "M-P-A-S-K-E",
+    "answer": "SEMPAK"
+  },
+  {
+    "type": "Penyakit",
+    "question": "L-A-K-P-A-N-A",
+    "answer": "KAPALAN"
+  },
+  {
+    "type": "Profesi",
+    "question": "U-O-T-K-R-O-R-P",
+    "answer": "KORUPTOR"
+  },
+{
+    "type": "Benda",
+    "question": "E-S-R-T-K-I-",
+    "answer": "STIKER"
+  },
+{
+    "type": "Makanan",
+    "question": "N-R-A-G-D-E-N",
+    "answer": "RENDANG"
+  },
+  {
     "type": "Profesi",
     "question": "O-D-T-R-E-K",
     "answer": "DOKTER"
